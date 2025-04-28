@@ -1,2 +1,1 @@
-Entrega 22/01/2024:
-https://colab.research.google.com/drive/1TI4S7jSzU4F9FZoCpRr-h9TxHtqjSVFI?usp=sharing
+Esta carpeta contiene los laboratorios realizados para el curso de métodos numéricos (2024-2) en la Universidad Nacional de Colombia por @catherineHerrera96
